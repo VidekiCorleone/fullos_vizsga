@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D8FF0-0E16-4C65-994A-DA26D44847D2}|gui\\gui.csproj|c:\\users\\zsiros.mate.ferenc\\desktop\\gyak\\c#\\konzol\\gui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98D8FF0-0E16-4C65-994A-DA26D44847D2}|gui\\gui.csproj|solutionrelative:gui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71E91E8-570A-4BFC-B541-678A4370B985}|konzol\\konzol.csproj|c:\\users\\zsiros.mate.ferenc\\desktop\\gyak\\c#\\konzol\\konzol\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71E91E8-570A-4BFC-B541-678A4370B985}|konzol\\konzol.csproj|solutionrelative:konzol\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D8FF0-0E16-4C65-994A-DA26D44847D2}|gui\\gui.csproj|c:\\users\\zsiros.mate.ferenc\\desktop\\gyak\\c#\\konzol\\gui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98D8FF0-0E16-4C65-994A-DA26D44847D2}|gui\\gui.csproj|solutionrelative:gui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D8FF0-0E16-4C65-994A-DA26D44847D2}|gui\\gui.csproj|c:\\users\\zsiros.mate.ferenc\\desktop\\gyak\\c#\\konzol\\gui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98D8FF0-0E16-4C65-994A-DA26D44847D2}|gui\\gui.csproj|solutionrelative:gui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D8FF0-0E16-4C65-994A-DA26D44847D2}|gui\\gui.csproj|c:\\users\\zsiros.mate.ferenc\\desktop\\gyak\\c#\\konzol\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98D8FF0-0E16-4C65-994A-DA26D44847D2}|gui\\gui.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\gui\\Form3.cs",
+              "RelativeDocumentMoniker": "gui\\Form3.cs",
+              "ToolTip": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\gui\\Form3.cs",
+              "RelativeToolTip": "gui\\Form3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:39:57.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\gui\\Form3.cs",
+              "RelativeDocumentMoniker": "gui\\Form3.cs",
+              "ToolTip": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\gui\\Form3.cs [Design]",
+              "RelativeToolTip": "gui\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:44:45.76Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\gui\\Form2.cs",
+              "RelativeDocumentMoniker": "gui\\Form2.cs",
+              "ToolTip": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\gui\\Form2.cs [Design]",
+              "RelativeToolTip": "gui\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:44:41.253Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\gui\\Form1.cs",
+              "RelativeDocumentMoniker": "gui\\Form1.cs",
+              "ToolTip": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\gui\\Form1.cs [Design]",
+              "RelativeToolTip": "gui\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:41:26.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\konzol\\ServerConnection.cs",
+              "RelativeDocumentMoniker": "konzol\\ServerConnection.cs",
+              "ToolTip": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\gyak\\c#\\konzol\\konzol\\ServerConnection.cs",
+              "RelativeToolTip": "konzol\\ServerConnection.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:53:39.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
